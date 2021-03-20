@@ -1,0 +1,7 @@
+﻿  test.c
+E:\代码\VS\Nugget problem\Nugget problem\test.c(82,9): warning C4476: "printf": 格式说明符中的类型字段字符“\xe8”未知
+E:\代码\VS\Nugget problem\Nugget problem\test.c(84,19): warning C4013: “malloc”未定义；假设外部返回 int
+E:\代码\VS\Nugget problem\Nugget problem\test.c(84,1): warning C4047: “初始化”:“float *”与“int”的间接级别不同
+E:\代码\VS\Nugget problem\Nugget problem\test.c(75): warning C4715: “Find_min”: 不是所有的控件路径都返回值
+E:\代码\VS\Nugget problem\Nugget problem\test.c(47): warning C4715: “Find_max”: 不是所有的控件路径都返回值
+  Nugget problem.vcxproj -> E:\代码\VS\Nugget problem\Debug\Nugget problem.exe
