@@ -95,5 +95,8 @@ int main(void)
 	min = Find_min(p, 0, n - 1);
 	printf("%.1f\n", min);
 
+	//ÊÍ·Å¶¯Ì¬ÄÚ´æ
+	free(p);
+	p = NULL;
 	return 0;
 }
